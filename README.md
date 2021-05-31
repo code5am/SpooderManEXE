@@ -64,6 +64,12 @@ Hello visitors, I'm Rahul Sinha. 🚀 I am from Jharkhand, India. Currently purs
 
 - 📫 How to reach me:rahulsinharaja456@gmail.com
 -->
+<p align="center">
+  <img src="https://github.com/SpooderManEXE/SpooderManEXE/cover-spooder.png" />
+</p>
+
+
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/SpooderManEXE/count.svg" />
